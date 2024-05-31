@@ -19,5 +19,7 @@
 - Performance and testing in flutter (Flutter Build Tools)
 - JSON Serialization
 - In depth of Stateless & Satateful Widgets
+- Flutter Favourites
 - Other packages: xdart, rive, local_auth, scoped_model, binder, mobx, moor, flare_flutter, redux, riverpod, google_maps
+- Full flutter docs
 - Backend
