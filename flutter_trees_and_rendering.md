@@ -63,4 +63,4 @@ All the stateless and stateful widgets have this called build context it it. Alt
 [1]: [Decode Flutter YouTube](<https://www.youtube.com/watch?v=rIaaH87z1-g>)
 [2]: [How Flutter renders widgets](<https://youtu.be/996ZgFRENMs>)
 [3]: [How to build RenderObjects](<https://youtu.be/cq34RWXegM8>)
-[4]: [Code for Custom Render Object] (<https://gist.github.com/craiglabenz/c6fc52e3e61f66c51f7a858115bfce51>)
+[4]: [Code for Custom Render Object](<https://gist.github.com/craiglabenz/c6fc52e3e61f66c51f7a858115bfce51>)
