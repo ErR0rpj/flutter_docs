@@ -12,8 +12,12 @@
   - markNeedsLayout, etc functions [Pending]
   - Render Objects in Detail: <https://api.flutter.dev/flutter/rendering/RenderObject-class.html> [Pending]
   - Terms mentioned in this: <https://www.youtube.com/watch?v=54yoCqkew6g&list=PL1ZBINWv0kQ9f1mz9xzuBIXX1h4BDi-6b> [Pending]
-- Keys in flutter
+- Keys in flutter [Completed]
 - Routing and navigation
+  - Flutter navigation
+  - Router in Flutter
+  - Deep linking
+  - Web links
 - Inherited Widget
 - Provider in depth
 - GetX
